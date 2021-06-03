@@ -1,5 +1,5 @@
 # A Very Simple GUI for video-compare by JKyle
-# v1 (2021-06-02)
+# v1.0 (2021-06-02)
 # Free to modify and redistribute
 
 # video-compare: https://github.com/pixop/video-compare
