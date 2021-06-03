@@ -8,7 +8,7 @@ Source code is written in Python with _tkinter_.
 
 ## Requirement
 
-This GUI runs on [_video-compare_](https://github.com/pixop/video-compare).
+This GUI app runs on [_video-compare_](https://github.com/pixop/video-compare).
 
 ## Usage
 
